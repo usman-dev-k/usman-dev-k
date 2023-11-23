@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @usman-dev-k
+<strong>- 👋 Hello, I’m @usman-dev-k </strong>
 - 👀 I'm Odoo Developer with 1 year of experience.
 - 🌱 I’m currently learning ML.
 
