@@ -1,8 +1,8 @@
-<strong><h1> 👋 Hello, I’m @usman-dev-k </h1></strong>
+<strong><h1> 👋 Hello, I’m Usman Khalid </h1></strong>
 - 👀 I'm Odoo Developer with 1 year of experience.
 - 🌱 I’m currently learning ML.
 
-
+<h2>Where you can find me?</h2>
 <!---
 usman-dev-k/usman-dev-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
