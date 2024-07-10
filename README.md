@@ -3,19 +3,11 @@
 - 🌱 I’m currently learning ML.
 
 <h2>Where you can find me?</h2>
-<a href="https://www.linkedin.com/in/usman-khalid-bhatti" rel="nofollow" >
-  <img alt="LinkedIn"
-    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
-</a>
 
-<p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/usman-khalid-bhatti" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
-  </a>
-</p>
+
 
 
 
