@@ -5,7 +5,7 @@
 <h2>Where you can find me?</h2>
 
   <a href="https://www.linkedin.com/in/usman-khalid-bhatti" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="Usman Khalid"> LinkedIn
+    <img src="https://i.sstatic.net/gVE0j.png" alt="Usman Khalid"> Usman Khalid
   </a> &nbsp; 
 
 
