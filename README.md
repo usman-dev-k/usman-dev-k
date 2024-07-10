@@ -4,9 +4,10 @@
 
 <h2>Where you can find me?</h2>
 <a href="https://www.linkedin.com/in/usman-khalid-bhatti" rel="nofollow" >
-  <img alt="LinkedIn"/>
+  <img alt="LinkedIn"
+    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
 </a>
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 
 
 
