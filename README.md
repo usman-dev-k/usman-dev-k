@@ -1,18 +1,25 @@
-<strong><h1> 👋 Hello, I’m Usman Khalid </h1></strong>
-- 👀 I'm Odoo Developer with 1 year of experience.
-- 🌱 I’m currently learning ML.
+# 👋 Hi, I’m Muhammad Usman Khalid  
 
-<h2>Where you can find me?</h2>
+💻 **Odoo Developer | Python Developer | Aspiring AI/ML Engineer**  
 
-  <a href="https://www.linkedin.com/in/usman-khalid-bhatti" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="Usman Khalid"> Usman Khalid
-  </a> &nbsp; 
+- 🎓 Computer Science student (BS, 2025) from UMT, Lahore.  
+- 🛠️ 2+ years of experience in **Odoo development**, ERP customization, and automation.  
+- 🚀 Skilled in **Python, SQL, XML, JavaScript, PostgreSQL, and Linux server deployments**.  
+- 📊 Built automated **financial reports, invoices, and workflows** in Odoo reducing manual processes by 30–45%.  
+- ⚡ Passionate about integrating **AI/ML** into enterprise systems.  
 
+---
 
+## 🔑 Key Projects
+- **Smart Vision Assist** → Smart Vision Assist Model for Indoor and Outdoor plus OCR model to detect printed text. 
+- **Process Automation System** → Automated sales order-to-invoice workflow including delivery validation.  
+- **Financial Reporting Module** → Dynamic, filterable financial reports inside Odoo.  
+- **Dark Theme UI** → Custom Odoo UI with XML/CSS.  
+- **Document Automation** → Automated generation of ZPL, PDF, and Excel reports.  
 
+---
 
-
-<!---
-usman-dev-k/usman-dev-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Connect With Me
+- 🌐 Portfolio: [muhammadusmankhalid.me](https://muhammadusmankhalid.me)  
+- 💼 LinkedIn: [Usman Khalid](https://www.linkedin.com/in/usman-khalid-bhatti)  
+- 📧 Email: [m.usmank2001@gmail.com](mailto:m.usmank2001@gmail.com)  
