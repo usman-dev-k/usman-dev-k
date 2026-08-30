@@ -82,6 +82,6 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <sub>⚡ Fun fact: this README updates its typing line every time you refresh — nothing static about it.</sub>
-</div>
+</div> -->
