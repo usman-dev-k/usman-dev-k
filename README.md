@@ -64,8 +64,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=usman-dev-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-dev-k&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=usman-dev-k&theme=github_dark" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usman-dev-k&theme=github_dark" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=usman-dev-k&theme=tokyonight&hide_border=true" />
 
@@ -82,6 +82,6 @@
 
 </div>
 
-<!-- <div align="center">
+<div align="center">
 <sub>⚡ Fun fact: this README updates its typing line every time you refresh — nothing static about it.</sub>
-</div> -->
+</div>
