@@ -36,7 +36,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**AI / Integration**
+</div>
+
+<div align="center">
+## 🔗 AI / Integration
 
 ![OpenAI](https://img.shields.io/badge/AI%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![REST API](https://img.shields.io/badge/API%20Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -52,7 +55,7 @@
 | Project | Description |
 |---|---|
 | 🏢 **[Odoo Multi-Tenant SaaS](https://github.com/usman-dev-k/Odoo-Multi-Tenant-SaaS)** | Multi-tenant SaaS setup for Odoo — custom company branding/URL replacement, isolated tenant configs, and a custom POS theme. |
-| 👁️ **Smart Vision Assist** | Indoor/outdoor smart detection model for AI glasses, paired with an OCR pipeline for reading printed text aloud. |
+| 👁️ **[Smart Vision Assist](https://github.com/usman-dev-k/Smart-AI-Detection-Indoor-and-Outdoor-)** | Indoor/outdoor smart detection model for AI glasses, paired with an OCR pipeline for reading printed text aloud. |
 | ⚙️ **Process Automation System** | End-to-end automated sales-order → delivery validation → invoice workflow inside Odoo. |
 | 📊 **Financial Reporting Module** | Dynamic, filterable financial reports built natively into Odoo. |
 | 🎨 **Dark Theme UI** | Custom Odoo backend theme built with XML/CSS. |
