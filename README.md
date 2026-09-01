@@ -38,8 +38,10 @@
 
 </div>
 
-<div align="center">
+---
+
 ## 🔗 AI / Integration
+<div align="center">
 
 ![OpenAI](https://img.shields.io/badge/AI%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![REST API](https://img.shields.io/badge/API%20Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white)
