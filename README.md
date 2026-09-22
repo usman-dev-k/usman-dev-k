@@ -2,16 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2EA6F0&height=200&section=header&text=Muhammad%20Usman%20Khalid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Odoo%20Developer%20%7C%20Python%20Developer%20%7C%20Aspiring%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA6F0&center=true&vCenter=true&width=600&lines=Building+ERP+automation+that+actually+ships;Odoo+13+%E2%86%92+19+%7C+Community+%26+Enterprise;Wiring+AI%2FML+into+enterprise+workflows;Automating+the+boring+parts+of+business" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA6F0&center=true&vCenter=true&width=700&lines=Building+ERP+automation+that+actually+ships;Odoo+13+%E2%86%92+19+%7C+Community+%26+Enterprise;Wiring+AI%2FML+into+enterprise+workflows;Automating+the+boring+parts+of+business" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman%20Khalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usman-khalid-bhatti)
 [![Email](https://img.shields.io/badge/Email-m.usmank2001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.usmank2001@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=usman-dev-k&style=for-the-badge&color=2EA6F0&label=PROFILE+VIEWS)](https://github.com/usman-dev-k)
 
+<sub>📍 Jump to: </sub> <a href="#about">About</a> · <a href="#stack">Stack</a> · <a href="#projects">Projects</a> · <a href="#stats">Stats</a> · <a href="#connect">Connect</a>
+
 </div>
 
 ---
 
+<a id="about"></a>
 ## 🧭 About Me
 
 - 🎓 **BS Computer Science (2025)**, UMT, Lahore
@@ -20,17 +23,25 @@
 - ⚡ Passionate about integrating **AI/ML and third-party APIs** into enterprise systems
 - 🔭 Currently exploring: multi-tenant SaaS architecture on Odoo, and computer-vision integrations
 
+<div align="center">
+
+[![Readme Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<sub>Refreshes with a new quote on every page load.</sub>
+</div>
+
 <details>
-<summary>🎲 Click for a random dev fact</summary>
+<summary>🧑‍💻 Currently building / learning (click to expand)</summary>
 <br>
 
-<img src="https://readme-quotes-api.vercel.app/api?theme=dark" alt="Random quote" width="500"/>
-
-<sub>Refresh the page to get a new one — feed changes on every visit.</sub>
+- Deepening JS/OWL fundamentals for custom Odoo frontend work
+- Shipping client-facing reporting modules (ageing, quotation, dashboard reports)
+- Experimenting with computer-vision pipelines outside of Odoo
 </details>
 
 ---
 
+<a id="stack"></a>
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -46,10 +57,9 @@
 
 </div>
 
----
+<div align="center">
 
 ## 🔗 AI / Integration
-<div align="center">
 
 ![OpenAI](https://img.shields.io/badge/AI%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![REST API](https://img.shields.io/badge/API%20Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -60,6 +70,7 @@
 
 ---
 
+<a id="projects"></a>
 ## 🔑 Key Projects
 
 <details open>
@@ -110,6 +121,7 @@ Automated generation of ZPL, PDF, and Excel documents/reports from Odoo data.
 
 ---
 
+<a id="stats"></a>
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -120,6 +132,16 @@ Automated generation of ZPL, PDF, and Excel documents/reports from Odoo data.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=usman-dev-k&theme=tokyonight&hide_border=true" />
 
 </div>
+
+<details>
+<summary>📅 Contribution Activity Graph (click to expand)</summary>
+<br>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=usman-dev-k&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+</details>
 
 <details>
 <summary>🏆 GitHub Trophies (click to expand)</summary>
@@ -143,8 +165,12 @@ Automated generation of ZPL, PDF, and Excel documents/reports from Odoo data.
 </div>
 </details>
 
+> 💡 **If any card above shows an error:** these are free, shared third-party services and occasionally get rate-limited by GitHub's API — it's not something broken in this file. Reloading the page usually fixes it within a minute. For a permanent fix, you can deploy your own private copy in ~2 minutes:
+> [![Deploy](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
+<a id="connect"></a>
 ## 📫 Let's Connect
 
 <div align="center">
@@ -156,7 +182,9 @@ Automated generation of ZPL, PDF, and Excel documents/reports from Odoo data.
 </div>
 
 <div align="center">
-<sub>⚡ Fun fact: this README updates its typing line every time you refresh — nothing static about it.</sub>
+<sub>⚡ Fun fact: this README updates its typing line and quote every time you refresh — nothing static about it.</sub>
+<br><br>
+<a href="#about">⬆ Back to top</a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA6F0,100:0F2027&height=100&section=footer" width="100%"/>
