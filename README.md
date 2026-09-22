@@ -1,190 +1,402 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2EA6F0&height=200&section=header&text=Muhammad%20Usman%20Khalid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Odoo%20Developer%20%7C%20Python%20Developer%20%7C%20Aspiring%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<!-- Animated header -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA6F0&center=true&vCenter=true&width=700&lines=Building+ERP+automation+that+actually+ships;Odoo+13+%E2%86%92+19+%7C+Community+%26+Enterprise;Wiring+AI%2FML+into+enterprise+workflows;Automating+the+boring+parts+of+business" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A26,45:123B52,75:245F7A,100:2EA6F0&height=220&section=header&text=Muhammad%20Usman%20Khalid&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Odoo%20Developer%20%7C%20Python%20Developer%20%7C%20Aspiring%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman%20Khalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usman-khalid-bhatti)
-[![Email](https://img.shields.io/badge/Email-m.usmank2001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.usmank2001@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=usman-dev-k&style=for-the-badge&color=2EA6F0&label=PROFILE+VIEWS)](https://github.com/usman-dev-k)
+<!-- Dynamic typing line -->
 
-<sub>📍 Jump to: </sub> <a href="#about">About</a> · <a href="#stack">Stack</a> · <a href="#projects">Projects</a> · <a href="#stats">Stats</a> · <a href="#connect">Connect</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&color=2EA6F0&center=true&vCenter=true&width=820&lines=Building+ERP+automation+that+actually+ships;Odoo+13+%E2%86%92+19+%7C+Community+%26+Enterprise;Wiring+AI%2FML+into+enterprise+workflows;Automating+the+boring+parts+of+business;Turning+business+requirements+into+working+Odoo+solutions" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://www.odoo.com/">
+  <img src="https://img.shields.io/badge/Odoo-Developer-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/usman-khalid-bhatti">
+  <img src="https://img.shields.io/badge/LinkedIn-Usman%20Khalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:m.usmank2001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=usman-dev-k&style=for-the-badge&color=2EA6F0&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+<sub>🧭</sub>
+<a href="#about">About</a> •
+<a href="#stack">Stack</a> •
+<a href="#projects">Projects</a> •
+<a href="#stats">Stats</a> •
+<a href="#connect">Connect</a>
 
 </div>
-
----
 
 <a id="about"></a>
-## 🧭 About Me
 
-- 🎓 **BS Computer Science (2025)**, UMT, Lahore
-- 🛠️ **2+ years** in Odoo development, ERP customization, and business process automation
-- 📊 Built automated financial reports, invoicing, and workflows in Odoo that cut manual work by **30–45%**
-- ⚡ Passionate about integrating **AI/ML and third-party APIs** into enterprise systems
-- 🔭 Currently exploring: multi-tenant SaaS architecture on Odoo, and computer-vision integrations
+🧭 About Me
 
-<div align="center">
+<table>
+<tr>
+<td width="58%" valign="top">
 
-[![Readme Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+🎓 BS Computer Science (2025) — UMT, Lahore
 
-<sub>Refreshes with a new quote on every page load.</sub>
-</div>
+🛠️ 2+ years in Odoo development, ERP customization, and business process automation
+
+📊 Built automated financial reports, invoicing, and workflows in Odoo that reduced manual work by 30–45%
+
+⚡ Interested in AI/ML, OpenAI integrations, APIs, and intelligent enterprise workflows
+
+🔭 Exploring multi-tenant SaaS architecture and computer-vision integrations
+
+</td>
+<td width="42%" valign="top">
+
+⚡ What I Like Building
+
+ERP Systems        ████████████████████
+Automation         ███████████████████░
+Odoo Development   ████████████████████
+AI Integrations    ████████████████░░░░
+Computer Vision    ██████████████░░░░░░
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary>🧑‍💻 Currently building / learning (click to expand)</summary>
-<br>
+<summary><b>🧑‍💻 Currently building / learning</b> — click to expand</summary>
 
-- Deepening JS/OWL fundamentals for custom Odoo frontend work
-- Shipping client-facing reporting modules (ageing, quotation, dashboard reports)
-- Experimenting with computer-vision pipelines outside of Odoo
+<br/>
+
+🧩 Deepening JavaScript / OWL fundamentals for custom Odoo frontend work
+
+📊 Shipping client-facing reporting modules — ageing, quotation, dashboard and financial reports
+
+🤖 Experimenting with AI-assisted enterprise workflows
+
+👁️ Exploring computer-vision pipelines outside Odoo
+
+🏗️ Learning more about multi-tenant SaaS architecture
+
 </details>
 
----
+<br/>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote"/>
+
+<sub>✨ A different developer quote can appear on refresh.</sub>
+
+</div>
 
 <a id="stack"></a>
-## 🧰 Tech Stack
+
+🧰 Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+🏢 Odoo & Backend
+
+<img src="https://skillicons.dev/icons?i=python,postgres,js,linux,docker,git&theme=dark" alt="Backend and development stack"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<br/><br/>
+
+🤖 AI / Integration
+
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-FF9900?style=for-the-badge&logo=zapier&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 </div>
-
-<div align="center">
-
-## 🔗 AI / Integration
-
-![OpenAI](https://img.shields.io/badge/AI%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
-![REST API](https://img.shields.io/badge/API%20Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-FF9900?style=for-the-badge&logo=zapier&logoColor=white)
-![OpenCV](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-</div>
-
----
 
 <a id="projects"></a>
-## 🔑 Key Projects
+
+🔑 Key Projects
+
+Click a project to expand it.
 
 <details open>
 <summary><b>🏢 Odoo Multi-Tenant SaaS</b></summary>
-<br>
 
-Multi-tenant SaaS setup for Odoo — custom company branding/URL replacement, isolated tenant configs, and a custom POS theme.
+<br/>
 
-➡️ [View repo](https://github.com/usman-dev-k/Odoo-Multi-Tenant-SaaS)
+Multi-tenant SaaS setup for Odoo with custom company branding, URL replacement, isolated tenant configuration, and a custom POS theme.
+
+Focus: Odoo architecture • SaaS • Multi-company • POS • Customization
+
+<br/>
+
+➡️ View repository
+
 </details>
 
 <details>
 <summary><b>👁️ Smart Vision Assist</b></summary>
-<br>
 
-Indoor/outdoor smart detection model for AI glasses, paired with an OCR pipeline for reading printed text aloud.
+<br/>
 
-➡️ [View repo](https://github.com/usman-dev-k/Smart-AI-Detection-Indoor-and-Outdoor-)
+Smart-vision system for AI glasses combining object detection, OCR and text-to-speech to help interpret visual information.
+
+Focus: Computer Vision • OCR • YOLO • TTS • Edge AI
+
+<br/>
+
+➡️ View repository
+
 </details>
 
 <details>
 <summary><b>⚙️ Process Automation System</b></summary>
-<br>
 
-End-to-end automated sales-order → delivery validation → invoice workflow inside Odoo.
+<br/>
+
+End-to-end Odoo workflow automation connecting sales orders, delivery validation and invoicing.
+
+Focus: Odoo ORM • Automated workflows • Scheduled actions • Business process automation
+
 </details>
 
 <details>
 <summary><b>📊 Financial Reporting Module</b></summary>
-<br>
 
-Dynamic, filterable financial reports built natively into Odoo.
+<br/>
+
+Dynamic, filterable financial reports built inside Odoo for reducing manual reporting work.
+
+Focus: Accounting • SQL • QWeb • Reporting • Data analysis
+
 </details>
 
 <details>
 <summary><b>🎨 Dark Theme UI</b></summary>
-<br>
 
-Custom Odoo backend theme built with XML/CSS.
+<br/>
+
+Custom Odoo backend theme using XML, CSS and frontend customization.
+
+Focus: Odoo Web • XML • CSS • UI customization
+
 </details>
 
 <details>
 <summary><b>📄 Document Automation</b></summary>
-<br>
 
-Automated generation of ZPL, PDF, and Excel documents/reports from Odoo data.
+<br/>
+
+Automated generation of ZPL, PDF and Excel documents/reports from Odoo data.
+
+Focus: QWeb • PDF • Excel • ZPL • Automation
+
 </details>
 
----
+🧠 How I Approach Odoo Problems
+
+<div align="center">
+
+🔎 Understand
+
+🧩 Design
+
+⚙️ Build
+
+🧪 Validate
+
+Business process
+
+Clean architecture
+
+Reusable modules
+
+Real data
+
+Requirements
+
+Data flow
+
+Automation
+
+Edge cases
+
+Existing behavior
+
+Security rules
+
+Reports / UI
+
+User workflow
+
+</div>
+
+<details>
+<summary><b>💡 A small principle I follow</b></summary>
+
+<br/>
+
+Understand the workflow before writing the code.
+
+In ERP systems, the hardest part is often not the Python or XML.
+It is understanding how the business process, data, permissions and user expectations fit together.
+
+</details>
 
 <a id="stats"></a>
-## 📈 GitHub Stats
+
+📈 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=usman-dev-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-dev-k&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=usman-dev-k&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=usman-dev-k&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-dev-k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=usman-dev-k&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
 <details>
-<summary>📅 Contribution Activity Graph (click to expand)</summary>
-<br>
+<summary>📅 Contribution Activity Graph</summary>
+
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=usman-dev-k&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=usman-dev-k&bg_color=0d1117&color=2EA6F0&line=2EA6F0&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
 
 </div>
+
 </details>
 
 <details>
-<summary>🏆 GitHub Trophies (click to expand)</summary>
-<br>
+<summary>🏆 GitHub Trophies</summary>
+
+<br/>
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=usman-dev-k&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=usman-dev-k&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
 
 </div>
+
 </details>
 
 <details>
-<summary>🐍 Contribution Snake (click to expand)</summary>
-<br>
+<summary>🐍 Contribution Snake</summary>
+
+<br/>
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/usman-dev-k/usman-dev-k/output/github-contribution-grid-snake-dark.svg" />
-
-<sub>Generated by the <a href="https://github.com/Platane/snk">snk</a> GitHub Action — see the setup note below to activate it.</sub>
+<img src="https://raw.githubusercontent.com/usman-dev-k/usman-dev-k/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 
 </div>
+
+<br/>
+
+<sub>⚠️ The snake image requires the GitHub Action setup described below.</sub>
+
 </details>
 
-> 💡 **If any card above shows an error:** these are free, shared third-party services and occasionally get rate-limited by GitHub's API — it's not something broken in this file. Reloading the page usually fixes it within a minute. For a permanent fix, you can deploy your own private copy in ~2 minutes:
-> [![Deploy](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats)
+⚙️ GitHub Snake Setup
 
----
+If the snake is currently showing as a broken image, create:
+
+.github/workflows/snake.yml
+
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+
+After pushing the workflow, run it once from:
+
+GitHub → Actions → Generate Contribution Snake → Run workflow
 
 <a id="connect"></a>
-## 📫 Let's Connect
+
+📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usman-khalid-bhatti)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:m.usmank2001@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-2EA6F0?style=flat-square&logo=googlechrome&logoColor=white)](https://muhammadusmankhalid.me)
+<a href="https://www.linkedin.com/in/usman-khalid-bhatti">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:m.usmank2001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://muhammadusmankhalid.me">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2EA6F0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/usman-dev-k">
+<img src="https://img.shields.io/badge/GitHub-usman--dev--k-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
+
+<br/>
 
 <div align="center">
-<sub>⚡ Fun fact: this README updates its typing line and quote every time you refresh — nothing static about it.</sub>
-<br><br>
-<a href="#about">⬆ Back to top</a>
+
+⚡ Building. Automating. Learning.
+
+<sub>Thanks for stopping by — explore the projects, open a repo, or say hello.</sub>
+
+<br/><br/>
+
+<a href="#about">⬆️ Back to top</a>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA6F0,100:0F2027&height=100&section=footer" width="100%"/>
+<!-- Animated footer -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA6F0,45:245F7A,100:071A26&height=130&section=footer" width="100%"/>
