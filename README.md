@@ -40,7 +40,7 @@
 
 <a id="about"></a>
 
-🧭 About Me
+## 🧭 About Me
 
 <table>
 <tr>
@@ -59,13 +59,13 @@
 </td>
 <td width="42%" valign="top">
 
-⚡ What I Like Building
+**⚡ What I Like Building**
 
-ERP Systems        ████████████████████
-Automation         ███████████████████░
-Odoo Development   ████████████████████
-AI Integrations    ████████████████░░░░
-Computer Vision    ██████████████░░░░░░
+`ERP Systems        ████████████████████`
+`Automation         ███████████████████░`
+`Odoo Development   ████████████████████`
+`AI Integrations    ████████████████░░░░`
+`Computer Vision    ██████████████░░░░░░`
 
 </td>
 </tr>
@@ -100,11 +100,11 @@ Computer Vision    ██████████████░░░░░░
 
 <a id="stack"></a>
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-🏢 Odoo & Backend
+**🏢 Odoo & Backend**
 
 <img src="https://skillicons.dev/icons?i=python,postgres,js,linux,docker,git&theme=dark" alt="Backend and development stack"/>
 
@@ -121,7 +121,7 @@ Computer Vision    ██████████████░░░░░░
 
 <br/><br/>
 
-🤖 AI / Integration
+**🤖 AI / Integration**
 
 <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -132,7 +132,7 @@ Computer Vision    ██████████████░░░░░░
 
 <a id="projects"></a>
 
-🔑 Key Projects
+## 🔑 Key Projects
 
 Click a project to expand it.
 
@@ -147,7 +147,7 @@ Focus: Odoo architecture • SaaS • Multi-company • POS • Customization
 
 <br/>
 
-➡️ View repository
+➡️ [View repository](https://github.com/usman-dev-k)
 
 </details>
 
@@ -162,7 +162,7 @@ Focus: Computer Vision • OCR • YOLO • TTS • Edge AI
 
 <br/>
 
-➡️ View repository
+➡️ [View repository](https://github.com/usman-dev-k)
 
 </details>
 
@@ -210,43 +210,48 @@ Focus: QWeb • PDF • Excel • ZPL • Automation
 
 </details>
 
-🧠 How I Approach Odoo Problems
+### 🧠 How I Approach Odoo Problems
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-🔎 Understand
-
-🧩 Design
-
-⚙️ Build
-
-🧪 Validate
+🔎 **Understand**
 
 Business process
-
-Clean architecture
-
-Reusable modules
-
-Real data
-
 Requirements
-
-Data flow
-
-Automation
-
-Edge cases
-
 Existing behavior
 
+</td>
+<td align="center" width="25%">
+
+🧩 **Design**
+
+Clean architecture
+Data flow
 Security rules
 
+</td>
+<td align="center" width="25%">
+
+⚙️ **Build**
+
+Reusable modules
+Automation
 Reports / UI
 
+</td>
+<td align="center" width="25%">
+
+🧪 **Validate**
+
+Real data
+Edge cases
 User workflow
 
-</div>
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>💡 A small principle I follow</b></summary>
@@ -262,7 +267,7 @@ It is understanding how the business process, data, permissions and user expecta
 
 <a id="stats"></a>
 
-📈 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -313,53 +318,11 @@ It is understanding how the business process, data, permissions and user expecta
 
 </div>
 
-<br/>
-
-<sub>⚠️ The snake image requires the GitHub Action setup described below.</sub>
-
 </details>
-
-⚙️ GitHub Snake Setup
-
-If the snake is currently showing as a broken image, create:
-
-.github/workflows/snake.yml
-
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
-
-After pushing the workflow, run it once from:
-
-GitHub → Actions → Generate Contribution Snake → Run workflow
 
 <a id="connect"></a>
 
-📫 Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
