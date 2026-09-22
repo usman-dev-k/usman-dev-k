@@ -43,40 +43,32 @@ I build **Odoo systems, ERP automations, integrations, and reporting workflows**
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-<h3 align="center">🧩 ERP & Odoo</h3>
-
 <div align="center">
 
-| |
-|---|
-| Custom Odoo modules |
-| Multi-company / multi-tenant architecture |
-| Accounting and financial reporting |
-| Sales → delivery → invoicing automation |
-| QWeb / PDF / Excel / ZPL documents |
-| POS and backend UI customization |
+### 🧩 ERP & Odoo
+
+<img src="https://img.shields.io/badge/-Custom_Odoo_Modules-1a1a2e?style=flat-square&logo=odoo&logoColor=714B67"/><br/>
+<img src="https://img.shields.io/badge/-Multi--Company_%2F_Multi--Tenant-1a1a2e?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/-Accounting_%26_Financial_Reporting-1a1a2e?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/-Sales_→_Delivery_→_Invoicing-1a1a2e?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/-QWeb_%2F_PDF_%2F_Excel_%2F_ZPL-1a1a2e?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/-POS_%26_Backend_UI-1a1a2e?style=flat-square"/>
 
 </div>
-
 </td>
 <td width="50%" valign="top">
-
-<h3 align="center">🤖 AI & Integrations</h3>
-
 <div align="center">
 
-| |
-|---|
-| OpenAI API integrations |
-| REST API integrations |
-| AI-assisted enterprise workflows |
-| Computer vision / OCR experiments |
-| Workflow automation |
-| Data-driven reporting and dashboards |
+### 🤖 AI & Integrations
+
+<img src="https://img.shields.io/badge/-OpenAI_API-1a1a2e?style=flat-square&logo=openai&logoColor=412991"/><br/>
+<img src="https://img.shields.io/badge/-REST_API_Integrations-1a1a2e?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/-AI--Assisted_Workflows-1a1a2e?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/-Computer_Vision_%2F_OCR-1a1a2e?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/-Workflow_Automation-1a1a2e?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/-Data--Driven_Dashboards-1a1a2e?style=flat-square"/>
 
 </div>
-
 </td>
 </tr>
 </table>
@@ -169,34 +161,80 @@ Automated generation of business documents and reports from Odoo data.
 
 ## How I Approach ERP Problems
 
-```text
-01  UNDERSTAND
-    Business process
-    Requirements
-    Existing behavior
-            │
-            ▼
-02  DESIGN
-    Data flow
-    Architecture
-    Security rules
-            │
-            ▼
-03  BUILD
-    Reusable modules
-    Automation
-    Reports / UI
-            │
-            ▼
-04  VALIDATE
-    Real data
-    Edge cases
-    User workflow
-```
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
 
-The goal is not just to make an Odoo module work.
+<img src="https://img.shields.io/badge/01-0EA5E9?style=for-the-badge"/>
 
-The goal is to make the **business process simpler, traceable, and maintainable**.
+### 🔍 Understand
+
+<sub>
+
+Business process
+Requirements
+Existing behavior
+
+</sub>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/02-6366F1?style=for-the-badge"/>
+
+### 🧠 Design
+
+<sub>
+
+Data flow
+Architecture
+Security rules
+
+</sub>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/03-A855F7?style=for-the-badge"/>
+
+### 🛠️ Build
+
+<sub>
+
+Reusable modules
+Automation
+Reports / UI
+
+</sub>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/04-16A34A?style=for-the-badge"/>
+
+### ✅ Validate
+
+<sub>
+
+Real data
+Edge cases
+User workflow
+
+</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`UNDERSTAND`  →  `DESIGN`  →  `BUILD`  →  `VALIDATE`  →  *(repeat as the process evolves)*
+
+</div>
+
+<br/>
+
+> The goal is not just to make an Odoo module work — it's to make the **business process simpler, traceable, and maintainable**.
 
 ---
 
@@ -204,8 +242,8 @@ The goal is to make the **business process simpler, traceable, and maintainable*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=usman-dev-k&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=86400" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-dev-k&layout=compact&hide_border=true&theme=transparent&langs_count=6&cache_seconds=86400" height="165" alt="Top languages"/>
+<img src="https://gh-stats.work/api?username=usman-dev-k&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=86400" height="165" alt="GitHub statistics"/>
+<img src="https://gh-stats.work/api/top-langs/?username=usman-dev-k&layout=compact&hide_border=true&theme=transparent&langs_count=6&cache_seconds=86400" height="165" alt="Top languages"/>
 
 <br/><br/>
 
